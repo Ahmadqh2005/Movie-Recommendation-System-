@@ -1,0 +1,9 @@
+myenv/
+__pycache__/
+*.pyc
+.git/
+.ipynb_checkpoints/
+data/
+train.py
+find_feature_eng.ipynb
+*:Zone.I*
